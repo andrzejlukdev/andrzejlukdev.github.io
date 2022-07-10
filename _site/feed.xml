@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-07-10T14:56:20+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">andrzej lukowski dev</title><subtitle>Start with me fascinating journey in IT specialist world.</subtitle><entry><title type="html">Podstawy testowania</title><link href="http://localhost:4000/testing/podstawy-testowania" rel="alternate" type="text/html" title="Podstawy testowania" /><published>2022-07-05T17:56:39+02:00</published><updated>2022-07-05T17:56:39+02:00</updated><id>http://localhost:4000/testing/podstawy-testowania</id><content type="html" xml:base="http://localhost:4000/testing/podstawy-testowania"><![CDATA[<p><img src="img_manual_test.png" alt="klawiatura" /></p>
+<h4>Podstawowe pojęcia:</h4>
+<p>
+<b>• Testowanie</b> – proces weryfikacji zachowania systemu i porównanie rezultatu z dokumentacją.<br />
+<b>• Test</b> – wykonanie określonych czynności polegających na sprawdzeniu określonej funkcjonalności w określonych warunkach i parametrach wejściowych.<br />
+<b>• Retest</b> – ponowne wykonanie przypadku testowego, który za pierwszym razem nie zakończył sie sukcesem.<br />
+<b>• Błąd</b> – zachowanie aplikacji które jest niezgodne z wymaganiami.<br />
+<b>• Błąd krytyczny</b> – zachowanie aplikacji które powoduje realne straty i wpływa na funkcjonowanie procesów biznesowych.<br />
+<b>• Błąd blokujący</b> – zachowanie aplikacji które uniemożliwia dalsze testowanie danego obszaru.<br />
+<b>• Debugowanie</b> – process analizowania, wyszukiwania i eliminacji błędów poprzez krokowe wykonywanie kodu.<br />
+<b>• Przypadek testowy</b> – zestaw początkowych i końcowych warunków wykonania określonej ścieżki w programie.<br />
+<b>• Scenariusz testów</b> – zapis sekwencji kroków jakie nalezy wykonać w celu przprowadzenia testu.<br />
+<b>• Wymagania</b> – zbiór warunków i oczekiwań jakie musi spełniać dana funkcjonalnośc lub aplikacja.<br />
+<b>• Dokumentacja</b> – formalnie wydane dokumenty, takie jak specyfikacja wymagań, projekt techniczny, scenariusze testowe, dokumentacja użykowanika itp.<br />
+</p>
+
+<h4>Testy systemowe:</h4>
+<p>
+<b>• testy funkcjonalne</b><br />
+<b>• testy niefunkcjonalne</b><br />
+  &nbsp;&nbsp;&nbsp;• testy wydajności<br />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• testy wydajnościowe<br />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• testy obciążeniowe<br />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• testy przeciążeniowe<br />
+  &nbsp;&nbsp;&nbsp;• testy regresywne<br />
+  &nbsp;&nbsp;&nbsp;• testy ergonomii<br />    
+  &nbsp;&nbsp;&nbsp;• testy instalacji – testy przenośności kodu<br />
+  &nbsp;&nbsp;&nbsp;• testy bezpieczeństwa<br />
+</p>]]></content><author><name>andrzejlukdev</name></author><category term="Test" /><category term="Automation" /><summary type="html"><![CDATA[Podstawowe pojęcia: • Testowanie – proces weryfikacji zachowania systemu i porównanie rezultatu z dokumentacją. • Test – wykonanie określonych czynności polegających na sprawdzeniu określonej funkcjonalności w określonych warunkach i parametrach wejściowych. • Retest – ponowne wykonanie przypadku testowego, który za pierwszym razem nie zakończył sie sukcesem. • Błąd – zachowanie aplikacji które jest niezgodne z wymaganiami. • Błąd krytyczny – zachowanie aplikacji które powoduje realne straty i wpływa na funkcjonowanie procesów biznesowych. • Błąd blokujący – zachowanie aplikacji które uniemożliwia dalsze testowanie danego obszaru. • Debugowanie – process analizowania, wyszukiwania i eliminacji błędów poprzez krokowe wykonywanie kodu. • Przypadek testowy – zestaw początkowych i końcowych warunków wykonania określonej ścieżki w programie. • Scenariusz testów – zapis sekwencji kroków jakie nalezy wykonać w celu przprowadzenia testu. • Wymagania – zbiór warunków i oczekiwań jakie musi spełniać dana funkcjonalnośc lub aplikacja. • Dokumentacja – formalnie wydane dokumenty, takie jak specyfikacja wymagań, projekt techniczny, scenariusze testowe, dokumentacja użykowanika itp. Testy systemowe: • testy funkcjonalne • testy niefunkcjonalne &nbsp;&nbsp;&nbsp;• testy wydajności &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• testy wydajnościowe &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• testy obciążeniowe &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• testy przeciążeniowe &nbsp;&nbsp;&nbsp;• testy regresywne &nbsp;&nbsp;&nbsp;• testy ergonomii &nbsp;&nbsp;&nbsp;• testy instalacji – testy przenośności kodu &nbsp;&nbsp;&nbsp;• testy bezpieczeństwa]]></summary></entry></feed>
