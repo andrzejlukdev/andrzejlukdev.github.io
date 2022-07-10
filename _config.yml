@@ -22,8 +22,8 @@ title: andrzej lukowski dev
 email: andrzej.lukowski.dev@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Start with me fascinating journey in IT specialist world.
-baseurl: "andrzejlukdev" # the subpath of your site, e.g. /blog
-url: "https://andrzejlukdev.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: andrzejlukdev
 github_username:  andrzejlukdev
 
