@@ -6,7 +6,7 @@ categories: Test Automation
 permalink: "/testing/:title"
 author: "andrzejlukdev"
 ---
-<img src="/images/img_manual_test.JPG" alt="klawiatura">
+<img src="/images/img_manual_test.jpg" alt="klawiatura">
 
 <h4>Podstawowe pojęcia:</h4>
 <p>
