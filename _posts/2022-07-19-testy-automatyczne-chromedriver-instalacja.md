@@ -6,8 +6,8 @@ categories: Test Automation
 permalink: "/testing/:title"
 author: "andrzejlukdev"
 ---
-<img src="img_setup_chromedriver.png" alt="chromedriver">
-![X](/assets/images/img_setup_chromedriver.png)
+<img src="img/img_setup_chromedriver.png" alt="chromedriver">
+
 <h4>Instalacja przeglądarki Chrome:</h4>
 1.Instalujemy przegladarke Chrome - link:<br>
 https://www.google.pl/chrome/?brand=FKPE&gclid=EAIaIQobChMIqICuncax9gIVxNmyCh0gcAGsEAAYASAAEgLvsfD_BwE&g<br>

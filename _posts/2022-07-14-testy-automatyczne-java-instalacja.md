@@ -6,7 +6,7 @@ categories: Test Automation
 permalink: "/testing/:title"
 author: "andrzejlukdev"
 ---
-<img src="img_setup_java.png" alt="java">
+<img src="/img/img_setup_java.png" alt="java">
 
 <h4>Pobieranie instalatora Java:</h4>
 1.Przechodzimy na strone gówną ORACLE https://www.oracle.com/index.html<br>

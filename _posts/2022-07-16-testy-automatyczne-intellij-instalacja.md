@@ -6,8 +6,8 @@ categories: Test Automation
 permalink: "/testing/:title"
 author: "andrzejlukdev"
 ---
-<img src="img_setup_intellij.png" width="100" height="100" alt="intellij">
-![My image Name](/assets/images/img_setup_intellij.png)
+<img src="img/img_setup_intellij.png" width="100" height="100" alt="intellij">
+
 <h4>Instalacja Inteliji IDEA:</h4>
 1.Pobieramy Intelij IDEA z oficjalnej strony<br>
 2.Przechodzimy do https://www.jetbrains.com/idea/<br>
