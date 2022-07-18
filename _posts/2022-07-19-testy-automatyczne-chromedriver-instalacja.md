@@ -6,7 +6,7 @@ categories: Test Automation
 permalink: "/testing/:title"
 author: "andrzejlukdev"
 ---
-<img src="img/img_setup_chromedriver.png" alt="chromedriver">
+<img src="testing/img/img_setup_chromedriver.png" alt="chromedriver">
 
 <h4>Instalacja przeglądarki Chrome:</h4>
 1.Instalujemy przegladarke Chrome - link:<br>
