@@ -5,9 +5,10 @@ date:   2022-07-05 17:56:39 +0200
 categories: Test Automation
 permalink: "/testing/:title"
 author: "andrzejlukdev"
+image: /_postimages/img_manual_test.JPG
 ---
 <img src="img/img_manual_test.JPG" alt="klawiatura">
-
+![]({{ page.image | relative_url }})
 <h4>Podstawowe pojęcia:</h4>
 <p>
 <b>• Testowanie</b> – proces weryfikacji zachowania systemu i porównanie rezultatu z dokumentacją.<br>
