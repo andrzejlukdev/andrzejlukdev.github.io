@@ -6,7 +6,7 @@ categories: Test Automation
 permalink: "/testing/:title"
 author: "andrzejlukdev"
 ---
-<img src="img_manual_test.png" alt="klawiatura">
+<img src="https://andrzejlukdev.github.io/_postimages/img_manual_test.png" alt="klawiatura">
 <h4>Podstawowe pojęcia:</h4>
 <p>
 <b>• Testowanie</b> – proces weryfikacji zachowania systemu i porównanie rezultatu z dokumentacją.<br>

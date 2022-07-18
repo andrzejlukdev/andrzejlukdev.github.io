@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Testy automatyczne - Java - instalacja"
+title:  "Testy automatyczne - Chromedriver - instalacja"
 date:   2022-07-05 17:56:39 +0200
 categories: Test Automation
 permalink: "/testing/:title"
