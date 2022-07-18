@@ -7,6 +7,7 @@ permalink: "/testing/:title"
 author: "andrzejlukdev"
 ---
 <img src="https://andrzejlukdev.github.io/_postimages/img_setup_intellij.png" width="100" height="100" alt="intellij">
+![My image Name](/_postimages/img_setup_intellij.png)
 <h4>Instalacja Inteliji IDEA:</h4>
 1.Pobieramy Intelij IDEA z oficjalnej strony<br>
 2.Przechodzimy do https://www.jetbrains.com/idea/<br>
