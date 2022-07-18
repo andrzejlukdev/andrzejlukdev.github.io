@@ -7,7 +7,7 @@ permalink: "/testing/:title"
 author: "andrzejlukdev"
 ---
 <img src="https://andrzejlukdev.github.io/_postimages/img_setup_chromedriver.png" width="100" height="100" alt="chromedriver">
-![My image Name](/_postimages/img_setup_chromedriver.png)
+![My image Name](https://andrzejlukdev.github.io/_postimages/img_setup_chromedriver.png)
 <h4>Instalacja przeglądarki Chrome:</h4>
 1.Instalujemy przegladarke Chrome - link:<br>
 https://www.google.pl/chrome/?brand=FKPE&gclid=EAIaIQobChMIqICuncax9gIVxNmyCh0gcAGsEAAYASAAEgLvsfD_BwE&g<br>
