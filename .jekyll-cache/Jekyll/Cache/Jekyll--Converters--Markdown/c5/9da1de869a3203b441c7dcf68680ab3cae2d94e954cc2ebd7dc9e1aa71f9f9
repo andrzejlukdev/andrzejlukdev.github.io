@@ -1,0 +1,29 @@
+I"�<p><img src="/_postimages/img_setup_java.png" alt="java" /></p>
+
+<h4>Pobieranie instalatora Java:</h4>
+<p>1.Przechodzimy na strone gówną ORACLE https://www.oracle.com/index.html<br />
+2.Wybieramy z menu głównego Products -&gt; Java<br />
+3.W sekcji Java SE wybieramy Oracle JDK<br />
+4.Wybieramy odpowiedni system operacyjny (Windows/macOS) i pobieramy x64 Installer<br /></p>
+
+<h4>Instalacja Java:</h4>
+<p>1.<br /></p>
+
+<h4>Sprawdzenie w systemie zainstalowanej wersji Javy:</h4>
+<p>Windows:<br />
+1.Uruchamiamy Command line<br />
+2.Wpisujemy polecenie Java -version<br /></p>
+
+<p>macOS:<br />
+1.Uruchamiamy Terminal<br />
+2.Wpisujemy polecenie Java -version<br /></p>
+
+<h4>Ustawianie zmiennej środowiskowej Javy:</h4>
+<p>Windows:<br />
+1.Mój Komuter -&gt; PPM -&gt; Właściwości -&gt; Zaawansowane ustawienia systemu -&gt; Zaawansowane -&gt; Zmienne środowiskowe<br />
+2.Jeżeli posiadasz już zmienną środowiskową JAVA_HOME — trzeba ją edytować, jeżeli jej nie ma — stworzyć nową.<br />
+3.Jako wartość trzeba wskazać ścieżkę do katalogu, gdzie zainstalowana jest Java, <br />
+np.: C:\Program Files\Java\jdk1.8.0_25&lt;br&gt;</p>
+
+<p>macOS:<br /></p>
+:ET
