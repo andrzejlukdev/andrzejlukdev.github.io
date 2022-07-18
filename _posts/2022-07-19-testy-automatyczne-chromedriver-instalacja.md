@@ -5,8 +5,9 @@ date:   2022-07-16 20:30:15 +0200
 categories: Test Automation
 permalink: "/testing/:title"
 author: "andrzejlukdev"
+
 ---
-<img src="img/img_setup_chromedriver.png" alt="chromedriver">
+<img src="/images/img_setup_chrome.png" width="200" height="200" alt="chrome">
 
 <h4>Instalacja przeglądarki Chrome:</h4>
 1.Instalujemy przegladarke Chrome - link:<br>
@@ -14,6 +15,7 @@ https://www.google.pl/chrome/?brand=FKPE&gclid=EAIaIQobChMIqICuncax9gIVxNmyCh0gc
 clsrc=aw.ds<br>
 2.Po instalacja sprawdzamy zainstalowaną wersje przeglądarki Chrome<br>
 
+<img src="/images/img_setup_chromedriver.png" width="200" height="200" alt="chromedriver">
 <h4>Instalacja ChromeDrivera:</h4>
 1.Wchodzimy na strone ChromeDriver - link: https://chromedriver.chromium.org/<br>
 2.Pobieramy najnowszą wersje zgodna z wersja naszej przegladarki<br>
